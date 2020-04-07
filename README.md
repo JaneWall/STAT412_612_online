@@ -5,10 +5,18 @@ The .pdf is the knitted version of the .Rmd.  I am not posting the .Rmd file as 
 However, if you are studying the material on your own or are teaching the material, just send me an email and I will add you
 to the github access for that repo.</p>
 
-# Topics now available: 
+# Topics now available for first semester class: 
 <ul>
   <li>tidyr </li>
   <li>dplyr for relational data</li>
   <li>COVID19 assignment</li>
+  <li>stringr</li>
+  
+  </ul>
+  
+# Topics now available for second semester class: 
+<ul>
+  <li>tidy text mining</li>
+  <li>advanced COVID19 assignment</li>
   
   </ul>
