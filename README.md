@@ -18,5 +18,6 @@ to the github access for that repo.</p>
 <ul>
   <li>tidy text mining</li>
   <li>advanced COVID19 assignment</li>
+  <li>expository graphs (ch 28 of r4ds book)</li>
   
   </ul>
